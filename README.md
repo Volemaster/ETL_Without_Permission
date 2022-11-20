@@ -3,4 +3,6 @@ Originally presented at GroupBy on May 24, 2022, this talk explores methods for 
 
 Original presentation meeting link: https://us02web.zoom.us/j/87265524444?pwd=htQEksbhQe0BntffmttBRSw8pxAu1R.1
 
+Presentation on YouTube: https://youtu.be/F4x2Qn7Fru4
+
 Feel free to reach out with any questions; find me at: http://CursorsAreEvil.com 
